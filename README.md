@@ -78,9 +78,11 @@ assign c6 = a ^ b;
 assign c7 = ~(a ^ b);
 endmodule
 ```
-```
- Developed by: RegisterNumber: 212225240007
-```
+
+ Developed by:Tharunika.E
+ 
+ RegisterNumber: 212225040470
+
 **Logic symbol & Truthtable**
 <img width="431" height="826" alt="image" src="https://github.com/user-attachments/assets/57f81f3c-c515-44aa-adf5-a537cdbe4f8a" />
 

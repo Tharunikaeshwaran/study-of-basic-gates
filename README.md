@@ -1,4 +1,4 @@
-### study-of-basic-gates
+
 
 **AIM:** 
 
@@ -13,7 +13,6 @@ Software – Quartus prime
 Introduction Logic gates are the basic building blocks of any digital system. Logic gates are electronic circuits having one or more than one input and only one output. The relationship between the input and the output is based on a certain logic. Based on this, logic gates are named as
 
 AND gate OR gate NOT gate NAND gate NOR gate Ex-OR gate Ex-NOR gate
-
 
 **AND gate**
 
@@ -79,16 +78,16 @@ assign c6 = a ^ b;
 assign c7 = ~(a ^ b);
 endmodule
 ```
- Developed by:Tharunika.E
- 
- RegisterNumber: 212225040470
- 
+```
+ Developed by: RegisterNumber: 212225240007
+```
 **Logic symbol & Truthtable**
-    
+<img width="431" height="826" alt="image" src="https://github.com/user-attachments/assets/57f81f3c-c515-44aa-adf5-a537cdbe4f8a" />
+
 **RTL realization Output:** 
-   
+<img width="1438" height="773" alt="Screenshot 2026-03-10 083306" src="https://github.com/user-attachments/assets/c7a41ae3-e664-428e-860d-9fbccc99b6c5" />
+
 **RTL**
-
+<img width="1913" height="971" alt="Screenshot 2026-03-10 083556" src="https://github.com/user-attachments/assets/db242f3b-f703-4c5f-893b-740e7afc9d4f" />
 **Result:**
-
 

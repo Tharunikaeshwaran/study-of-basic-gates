@@ -14,6 +14,7 @@ Introduction Logic gates are the basic building blocks of any digital system. Lo
 
 AND gate OR gate NOT gate NAND gate NOR gate Ex-OR gate Ex-NOR gate
 
+
 **AND gate**
 
 The AND gate is an electronic circuit that gives a high output (1) only if all its inputs are high. A dot (.) is used to show the AND operation i.e. A.B or can be written as AB
@@ -83,9 +84,9 @@ endmodule
  RegisterNumber: 212225040470
  
 **Logic symbol & Truthtable**
-
+    
 **RTL realization Output:** 
-
+   
 **RTL**
 
 **Result:**

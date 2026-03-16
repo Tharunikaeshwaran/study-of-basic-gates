@@ -84,7 +84,7 @@ endmodule
  RegisterNumber: 212225040470
  
 **Logic symbol & Truthtable**
-    
+     
 **RTL realization Output:** 
    
 **RTL**
@@ -92,3 +92,4 @@ endmodule
 **Result:**
 
 
+ 
